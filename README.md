@@ -16,8 +16,9 @@ Input:
 	K: dimensionality of embedding space
 
 	beta: decaying constant, default is 0.5 / spectral radius
+    
 Output:
-U: N*K left embedding matrix
+    U: N*K left embedding matrix
 
 	V: N*K right embedding matrix
 
